@@ -1,0 +1,7 @@
+The databases are
+MySQL
+PostgreSQL
+SQL Server
+Oracle
+So can look at the documentation and think I tried Postgres, postgres, Postgresql, nothing worked. How do I get postgres?
+Or you might look for Microsoft SQL Server, MS SQL Server, and you can find the canonical name is SQL Server.
